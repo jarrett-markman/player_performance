@@ -1,6 +1,6 @@
 # ATP/WTA Player Performance in Wins and Losses in the 2023 Season
 
-Certain players have certain skills that impact winning more than others. John Isner and Serena Williams are renowned as some of the greatest (if not the best) servers of all-time, while, Novak Djokovic and Iga Swiatek currently dominate the game with their returning prowess. What kind of factors can they control for in order to impact winning more than others? Improving first serve percentage? Winning more second serve points? This shiny application displays the statistical output in every single ATP and WTA players' match from the 2023 Season.
+Certain players have certain skills that impact winning more than others. What kind of factors can they control for in order to impact winning more than others? Improving first serve percentage? Winning more second serve points? This shiny application displays the statistical output in every single ATP and WTA players' match from the 2023 Season.
 
 [Check out the Shiny Application here!](https://jarrett-markman.shinyapps.io/Player-Statistical-Performance/)
 
