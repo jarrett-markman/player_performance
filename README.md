@@ -9,9 +9,8 @@ Certain players have certain skills that impact winning more than others. What k
 - In terms of opponent evaluation, you can see what an opponent may struggle with - and attack that - or what you may want to minimize (the things an opponent excels at). 
 
 ## Important note: Every single match is different
-- While a player may find success in one match there are many other factors to take account of like surface, weather, and his opponent's form.
-- Players like Ugo Humbert and Ben Shelton began last season aroung 100 in the world, and both ended the year in the top 20.
-- Based on the 2023 season, the sample size for a season's performance (especially with certain filters like surface) players may not indicate their true abilities.
+- While a player may find success in one match there are many other factors to take account of like surface, weather, and their opponent's ability/performance.
+- Based on the 2023 season, the sample size for a season's performance (especially with certain filters like surface) players may hit their true distribution.
 - More data would be needed in order represent their true distribution.
 
 ## References:
